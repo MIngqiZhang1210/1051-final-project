@@ -1,7 +1,7 @@
 # Preproposal
 
 ## What idea(s) do you have for your final project?
-I want to make a game about pixels. It's a game about miners digging the most mines in a given time.
+I want to make a game about pixels. 
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
